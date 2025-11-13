@@ -2,7 +2,7 @@
 Welth is an intelligent finance management platform that helps users track their spending, monitor transactions, set AI-powered monthly budgets, and receive smart financial insights — all while maintaining high security and automation.
 
 # Tech Stack
-1)Frontend Framework - Next.js
+1)Frontend Framework - Next.js <br>
 2) Styling - Tailwind CSS
 3) UI Components - Shadcn
 4) AI Integration - Gemini AI
