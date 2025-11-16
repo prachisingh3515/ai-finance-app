@@ -13,7 +13,6 @@ Welth is an intelligent finance management platform that helps users track their
 **Transaction Bar Chart:** Visual representation of spending trends. <br>
 **Monthly Budget Tracker:** Monitors budget progress with real-time updates. <br>
 **AI Monthly Budgeting**: Automatically predicts and sets your monthly budget using AI. <br>
-**AI Receipt Scanner:** Upload receipts and let AI extract key data like amount, category, and date. <br>
 **AI Monthly Insights:** Get smart insights into your financial habits and spending patterns. <br>
 **Account Page**: Manage profile details and preferences. <br>
 **Account Drawer:** Quick access to account options and navigation. <br>
