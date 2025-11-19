@@ -4,7 +4,12 @@
 
 Powered by modern technologies like **Next.js, Tailwind CSS, Shadcn, Gemini AI**, and protected using **Arcjet Security**, the platform provides a seamless, high-performance, and secure user experience.
 
-# 🛠️ Tech Stack
+## 🔗 Project Link
+
+[👉 View Welth Live](https://ai-finance-app-ochre.vercel.app/)
+
+
+## 🛠️ Tech Stack
 
 - **Frontend Framework**: Next.js
 - **Styling**: Tailwind CSS
@@ -14,9 +19,9 @@ Powered by modern technologies like **Next.js, Tailwind CSS, Shadcn, Gemini AI**
 - **Backend Functions**: Inngest
 - **Security**: Arcjet Shield & Bot Protection
 
-# 🔑 Key Features
+## 🔑 Key Features
 
-## 🌐 Home Page
+### 🌐 Home Page
 
 A beautifully designed and interactive landing page featuring:
 - Hero Section with Smooth Scrolling Animation
@@ -29,7 +34,7 @@ A beautifully designed and interactive landing page featuring:
 - Testimonials — Genuine user feedback
 - CTA (Call-To-Action) section to encourage sign-ups
 
-## 🔐 Authentication (Clerk)
+### 🔐 Authentication (Clerk)
 
 - Secure login and logout
 - Update and manage profile details
@@ -44,7 +49,7 @@ Your main financial cockpit with:
 - **Monthly Expense Breakdown Pie Chart**
 - **Grid View of User Accounts** with balances and categories
 
-## 💵 Transactions Management
+### 💵 Transactions Management
 
 - **Transactions Table**
   - View, sort, and filter all your financial activities
@@ -57,7 +62,7 @@ Your main financial cockpit with:
   - Add transactions manually
   - Categorize expenses or income instantly
 
-## 🧠 AI-Powered Features
+### 🧠 AI-Powered Features
 
 - **AI Monthly Budgeting**
 Automatically predicts and sets your **optimal monthly budget** using Gemini AI.
@@ -69,7 +74,7 @@ Get intelligent insights about:
 - Unusual financial patterns
 - Smart recommendations to save better
 
-## 📅 Budgeting & Alerts
+### 📅 Budgeting & Alerts
 
 - **Monthly Budget Tracker**
   - Monitors budget usage in real-time
@@ -82,7 +87,7 @@ Get intelligent insights about:
 - **Email Alerts**
 Receive **budget alerts directly in your inbox** for better financial tracking.
 
-## 🛡️ Security (Arcjet Integration)
+### 🛡️ Security (Arcjet Integration)
 
 - **Arcjet Shield**
 
@@ -91,7 +96,7 @@ Receive **budget alerts directly in your inbox** for better financial tracking.
 - **Rate-limit prevention**
 Ensures that your platform remains safe from abuse and automated attacks.
 
-## 👤 Account Page
+### 👤 Account Page
 
 The Account Page provides:
 
